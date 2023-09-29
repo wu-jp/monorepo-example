@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo-example/h5-client",
+  "version": "0.1.0",
+  "description": "h5-client package",
+  "main": "./dist/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
